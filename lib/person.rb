@@ -22,7 +22,7 @@ def job=(new_job)
   @job = newjob
 end
 
-    
+
 
 
 end

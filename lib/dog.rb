@@ -5,11 +5,11 @@ def initialize(name,breed)
   @breed = breed
 end
 
-def #name
+def name
   @name
 end
 
-def #name=(new_name)
+def name=(new_name)
   @name=newname
 end
 

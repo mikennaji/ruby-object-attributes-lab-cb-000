@@ -9,16 +9,16 @@ def name
   @name
 end
 
-def name=(new_name)
-  @name=newname
+def name=(name)
+  @name=name
 end
 
 def breed
   @breed
 end
 
-def breed=(new_breed)
-  @breed=newbreed
+def breed=(breed)
+  @breed=breed
 end
 
 

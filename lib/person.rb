@@ -8,15 +8,15 @@ def name
 end
 
 def name=(new_name)
-  @name = newname
+  @name = name
 end
 
 def job
   @job
 end
 
-def job=(new_job)
-  @job = newjob
+def job=(job)
+  @job = job
 end
 
 
